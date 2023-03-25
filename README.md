@@ -14,7 +14,7 @@ The code contains the implementations of an:
 1) [Case 2](https://github.com/galadriana/selfregulationlearning_POMDP_actinf/blob/b932eba5a9536764fbeff6d5743bf73464864a59/Models/Thesis_case2.mlx).
 
 - Replicate results
-
+* [simulaiton output](https://github.com/galadriana/selfregulationlearning_POMDP_actinf/blob/cc871625d4690485d6677f643378b4f781ec712f/Replicate_results/MDP_v1_2023_03_24_t2x10.mat)
 - Generate figures
-[mat files](https://github.com/galadriana/selfregulationlearning_POMDP_actinf/tree/main/Generate_figures) 
+* [mat files](https://github.com/galadriana/selfregulationlearning_POMDP_actinf/tree/main/Generate_figures) 
 
