@@ -1,7 +1,7 @@
 # selfregulationlearning_POMDP_actinf
 This repository contains the code and results of the design of an agent self-regulation learner using active inference.
 
-Please contact us at this e-mail address if you have any question: gabriela.vargas.ag@gmail.com. Gabriela Vargas.
+Don't hesitate to get in touch with us at this e-mail address if you have any questions: gabriela.vargas.ag@gmail.com. Gabriela Vargas.
 
 The code contains the implementations of an:
 
@@ -10,11 +10,18 @@ The code contains the implementations of an:
 
 # Files:
 - Models
-1) [Case 1](https://github.com/galadriana/selfregulationlearning_POMDP_actinf/blob/b932eba5a9536764fbeff6d5743bf73464864a59/Models/Thesis_case1.mlx).
-1) [Case 2](https://github.com/galadriana/selfregulationlearning_POMDP_actinf/blob/b932eba5a9536764fbeff6d5743bf73464864a59/Models/Thesis_case2.mlx).
+1) [Case 1](https://github.com/galadriana/selfregulationlearning_POMDP_actinf/blob/main/Models/Thesis_case1_50STATES.mlx).
+2) [Case 2](https://github.com/galadriana/selfregulationlearning_POMDP_actinf/blob/main/Models/Thesis_case2_POLICYPRIORS.mlx).
+3) [Case 3](https://github.com/galadriana/selfregulationlearning_POMDP_actinf/blob/main/Models/Thesis_case3_50STATES.mlx).
 
 - Replicate results
-* [simulaiton output](https://github.com/galadriana/selfregulationlearning_POMDP_actinf/blob/cc871625d4690485d6677f643378b4f781ec712f/Replicate_results/MDP_v1_2023_03_24_t2x10.mat)
+* [Outputs from model 1](https://github.com/galadriana/selfregulationlearning_POMDP_actinf/tree/main/Replicate_results/Model1_100runs)
+* [Outputs from model 2](https://github.com/galadriana/selfregulationlearning_POMDP_actinf/tree/main/Replicate_results/Model2_100runs)
+* [Outputs from model 3](https://github.com/galadriana/selfregulationlearning_POMDP_actinf/tree/main/Replicate_results/Model3_100runs)
+* [Performance comparison](https://github.com/galadriana/selfregulationlearning_POMDP_actinf/tree/main/Replicate_results/Performance_comparison)
+
+  
 - Generate figures
-* [mat files](https://github.com/galadriana/selfregulationlearning_POMDP_actinf/tree/main/Generate_figures) 
+* [Matlab functions to obtain the visualizations](https://github.com/galadriana/selfregulationlearning_POMDP_actinf/tree/main/Generate_figures)
+  *   
 
